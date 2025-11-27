@@ -20,10 +20,8 @@ A Chrome extension that automatically displays full paper abstracts from Google 
 
 ### From Source
 
-1. **Clone or download this repository**
-   ```bash
-   git clone https://github.com/yourusername/scholar-abstract-reader.git
-   ```
+1. **Download the zip from the releases page**
+   
 
 2. **Open Chrome and navigate to extensions**
    - Go to `chrome://extensions/`
